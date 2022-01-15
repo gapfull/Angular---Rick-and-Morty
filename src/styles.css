@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 20px;
+  margin: 25px;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: underline;
+}
+
+.azul{
+  color: rgb(6, 184, 255);
+}
+.verde{
+color: rgb(113, 255, 30);
+}
+.rojo{
+  color: red;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+ /* line-height: 0px; */
+  margin-top: 50px;
+  margin-bottom: 60px;
+}

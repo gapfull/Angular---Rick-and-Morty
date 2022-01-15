@@ -1,0 +1,10 @@
+<h1 class="verde">LOCALIZACIONES</h1>
+
+<div class="listaplanetas">
+  <h1>Planetas Rick and Morty</h1>
+  <div>
+    <ng-container *ngFor="let locationIterator of locations">
+      <app-location-card [location]="locationIterator"></app-location-card>
+    </ng-container>
+  </div>
+</div>

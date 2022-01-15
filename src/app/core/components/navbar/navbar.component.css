@@ -1,0 +1,31 @@
+div {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  width: 80%;
+  margin: 25px;
+  display: block;
+  margin: auto;
+}
+
+.navbar ul {
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin: 0px;
+}
+.navbar li {
+  list-style-type: none;
+  display: inline;
+  padding-right: 5px;
+  margin: 12px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}

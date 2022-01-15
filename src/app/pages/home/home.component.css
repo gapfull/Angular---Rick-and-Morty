@@ -1,0 +1,21 @@
+h1{
+  line-height: 0px;
+}
+img{
+  margin: 25px;
+  width: 100%;
+  height: auto;
+}
+
+div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Centrado de menu en dispositivos pequeños y medianos. */
+@media (min-width: 1px) and (max-width: 991px) {
+  h1{
+    line-height: 60px;
+  }
+}

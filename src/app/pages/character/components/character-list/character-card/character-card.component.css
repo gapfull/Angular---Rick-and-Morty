@@ -1,0 +1,17 @@
+div {
+  max-width: 232px;
+  margin: 10px;
+  background-color: rgb(50, 50, 50);
+  border-radius: 30px;
+  padding: 3px;
+}
+h1 {
+  font-size: 17px;
+  text-align: center;
+  margin: 15px;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
